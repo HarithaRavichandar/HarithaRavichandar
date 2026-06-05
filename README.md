@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 I'm a final-year Integrated M.Tech Data Science student at VIT University (CGPA: **8.82**), focused on building practical AI systems in computer vision, NLP, and graph-based learning.
 
@@ -171,6 +171,10 @@ Open to research collaborations and internship opportunities. Feel free to reach
   &nbsp;
   <a href="https://drive.google.com/file/d/1kuusz3q_t5wwsKY-vlmJahyLG4w2SrCd/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/haritha__30__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
