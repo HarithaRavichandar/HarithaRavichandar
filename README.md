@@ -138,7 +138,7 @@ Open to research collaborations and internship opportunities. Feel free to reach
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:-----|:------|
-| Integrated M.Tech — CSE (Data Science) | VIT University | Jul 2022 – Present | **8.82 CGPA** |
+| Integrated M.Tech - CSE (Data Science) | VIT University | Jul 2022 – Present | **8.83 CGPA** |
 
 </div>
 
